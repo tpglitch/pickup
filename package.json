@@ -1,0 +1,13 @@
+{
+  "name": "popcat-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tpglitch/pickup.git",
+  "author": "Tyler Kinney <tyler@fovpowered.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@mrbeastprolevel/popcat-api-wrapper-v2": "^1.2.2",
+    "express": "^4.18.2",
+    "node-fetch": "2.6.0"
+  }
+}
